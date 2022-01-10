@@ -1,0 +1,12 @@
+.grid-02 {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	align-items: center;
+}
+.fig:hover {
+	transform: translateY(-0.4rem);
+	transition: all 0.3s;
+}
+.btn-menu {
+	display: none;
+}
